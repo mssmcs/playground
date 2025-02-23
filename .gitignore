@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!CMakeLists.txt
+
+# And these folders
+!sample_project
+!create_app
